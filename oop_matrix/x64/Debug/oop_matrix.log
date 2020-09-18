@@ -1,0 +1,6 @@
+﻿  Array.cpp
+C:\Users\denis\OneDrive\Desktop\matrix--master\oop_matrix\Array.cpp(223,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\denis\OneDrive\Desktop\matrix--master\oop_matrix\Array.cpp(261,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_matrix.cpp
+  Создание кода...
+  oop_matrix.vcxproj -> C:\Users\denis\OneDrive\Desktop\matrix--master\x64\Debug\oop_matrix.exe
